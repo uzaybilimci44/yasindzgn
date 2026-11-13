@@ -1,4 +1,14 @@
-# Hi, I'm Yasin 👋
+<p align="center">
+  <a href="https://github.com/uzaybilimci44">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1100&color=78DFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Yasin;Welcome+to+my+GitHub+page;Exploring+the+universe+%F0%9F%8C%8C" alt="Animated greeting: Hi, I'm Yasin; Welcome to my GitHub page; Exploring the universe" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="./yd-astronomy.svg" alt="YD astronomy illustration with stars, planets, and orbital paths" width="100%" />
+</p>
+
+## About me
 
 Welcome to my GitHub profile. I'm using this space to share projects and learn through building.
 
